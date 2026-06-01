@@ -216,6 +216,7 @@ The dataset contains Virat Kohli's international batting statistics, including:
 ✅ Sustained elite batting standards for over a decade.
 
 ---
+# 📷 Dashboard Preview
 
 <img src="https://github.com/kartikgawali-00/Virat-Kohli-Career-Statistics-Analysis-Dashboard/blob/main/Dashboard%20Image/Screenshot%202026-06-01%20182352.png?raw=true">
 
@@ -313,11 +314,7 @@ Success across ODI, T20I, and Test cricket showcases remarkable versatility.
 
 ---
 
-# 📷 Dashboard Preview
 
-![Virat Kohli Career Statistics Dashboard](images/Virat_Kohli_Dashboard.png)
-
----
 
 # 🏆 Skills Demonstrated
 
